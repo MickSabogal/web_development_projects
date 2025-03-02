@@ -1,7 +1,7 @@
 
 <h1>Web Development Projects</h1>
 
-Hello!!! I hope you're doing well. Here you will find my Web development projects from my different bootcamps, so here the links for every project if you wanna take a look: 
+Hello!!! I hope you're doing well. Here you will find my Web development projects from my different boot camps, so here are the links for every project if you wanna take a look: 
 
 11.3 TinDog Project: https://micksabogal.github.io/web_development_projects/11.3%20TinDog%20Project/
 
@@ -23,4 +23,5 @@ https://micksabogal.github.io/web_development_projects/10.3%20Mondrian%20Project
 Marathon Registration Form:
 https://micksabogal.github.io/web_development_projects/marathon_registration/
 
-
+Photo Blog:
+https://micksabogal.github.io/web_development_projects/PhotoBlog/

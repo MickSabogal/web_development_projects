@@ -25,3 +25,6 @@ https://micksabogal.github.io/web_development_projects/marathon_registration/
 
 Photo Blog:
 https://micksabogal.github.io/web_development_projects/PhotoBlog/
+
+Museum of Candy: 
+https://micksabogal.github.io/web_development_projects/Starter/
